@@ -14,6 +14,7 @@ const myAge: Age = 2;
 const myShoe: Shoe = { size: 10, name: 'Airmax' };
 
 function generateSome<T>(howMany: number): T {
+    howMany.
   return 100;
 }
 
@@ -31,3 +32,9 @@ export default async function Hello(name: Food): Promise<Food> {
 
 console.log(myAge, myShoe, myShoes);
 
+
+const hello = () => {
+    console.log('Hello world');
+}
+
+hello();

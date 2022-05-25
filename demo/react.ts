@@ -6,4 +6,5 @@ export class App extends React.Component {
   public bar() {
     console.log(this.foo);
   }
+
 }
