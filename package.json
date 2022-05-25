@@ -1,7 +1,7 @@
 {
-  "name": "theme-cobalt2",
-  "version": "2.2.5",
-  "displayName": "Cobalt2 Theme Official",
+  "name": "theme-cobalt2-light",
+  "version": "1.0.0",
+  "displayName": "Cobalt2 Light Theme",
   "description": "🔥 Official theme by Wes Bos.",
   "publisher": "wesbos",
   "icon": "images/logo.png",
@@ -11,7 +11,7 @@
   },
   "galleryBanner": {
     "color": "#193549",
-    "theme": "dark"
+    "theme": "light"
   },
   "categories": [
     "Themes"
@@ -30,8 +30,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cobalt2",
-        "uiTheme": "vs-dark",
+        "label": "Cobalt2-Light",
+        "uiTheme": "vs",
         "path": "./theme/cobalt2.json"
       }
     ]

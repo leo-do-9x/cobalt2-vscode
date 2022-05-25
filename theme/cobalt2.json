@@ -18,7 +18,7 @@
       "foreground": "#FF68B8",
       "italic": true
     },
-    // This colours both object definiton properties, as well as references. If the property does not exist, it will be white\.
+    // This color both object definition properties, as well as references. If the property does not exist, it will be white\.
     "property": "#22d3ee",
   },
   "colors": {
@@ -60,7 +60,7 @@
     // editor
     // This is the main background color
     "editor.background": "#fff",
-    // this is the main text colour
+    // this is the main text color
     "editor.foreground": "#64748b",
     // Okay this part is confusing as heck!
     // Currently found item
@@ -77,12 +77,12 @@
     "editor.lineHighlightBackground": "#d4d3d2",
     "editor.lineHighlightBorder": "#595957",
     "editor.rangeHighlightBackground": "#d4d3d2",
-    // selected Text colours
-    // This is the standard Select colour
+    // selected Text color
+    // This is the standard Select color
     "editor.selectionBackground": "#cbd5e1",
-    // This is the colour of the other matching elements
+    // This is the color of the other matching elements
     "editor.selectionHighlightBackground": "#0050A480",
-    // if you tab away you can colour it differently, but ill leave this one out
+    // if you tab away you can color it differently, but ill leave this one out
     // "editor.inactiveSelectionBackground": "",
     // Word Highlights! This happens when you move your cursor inside a variable
     // Strong is the one where your cursor currently is
@@ -552,7 +552,7 @@
       }
     },
     {
-      "name": "[HTML] - Quotes. these are a slightly different colour because expand selection will then not include quotes",
+      "name": "[HTML] - Quotes. these are a slightly different color because expand selection will then not include quotes",
       "scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
       "settings": {
         "foreground": "#4ade80"
