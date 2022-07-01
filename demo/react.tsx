@@ -6,7 +6,7 @@ export class App extends React.Component {
   public render() {
     return (
       <div className="App">
-        <header className="App-header">
+        <header className="App-header">For test
           <h1 className="App-title">{this.foo}</h1>
         </header>
       </div>

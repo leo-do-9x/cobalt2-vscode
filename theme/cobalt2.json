@@ -72,14 +72,14 @@
     // When you hover over something and a popup shows, this highlights that thing
     "editor.hoverHighlightBackground": "#ffc60033",
     // when you have something selected, but have lost focus on the editor
-    "editor.inactiveSelectionBackground": "#0ea5e9",
+    "editor.inactiveSelectionBackground": "#ecfeff",
     // current line styles
     "editor.lineHighlightBackground": "#d4d3d2",
     "editor.lineHighlightBorder": "#595957",
     "editor.rangeHighlightBackground": "#d4d3d2",
     // selected Text color
     // This is the standard Select color
-    "editor.selectionBackground": "#cbd5e1",
+    "editor.selectionBackground": "#f1f5f9",
     // This is the color of the other matching elements
     "editor.selectionHighlightBackground": "#0050A480",
     // if you tab away you can color it differently, but ill leave this one out
@@ -222,7 +222,7 @@
     "sideBar.foreground": "#64748b",
     "sideBarSectionHeader.background": "#fff",
     "sideBarSectionHeader.foreground": "#64748b",
-    "sideBarTitle.foreground": "#64748b",
+    "sideBarTitle.foreground": "#1e293b",
     // statusBar
     "statusBar.background": "#fff",
     "statusBar.border": "#f8fafc",
@@ -271,7 +271,7 @@
     "gitDecoration.modifiedResourceForeground": "#ffc600",
     "gitDecoration.deletedResourceForeground": "#ff628c",
     "gitDecoration.untrackedResourceForeground": "#3ad900",
-    "gitDecoration.ignoredResourceForeground": "#808080",
+    "gitDecoration.ignoredResourceForeground": "#94a3b8",
     "gitDecoration.conflictingResourceForeground": "#FF7200",
     // textBlockQuote
     "textBlockQuote.background": "#fff",
@@ -308,7 +308,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#0088ff"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -361,7 +361,7 @@
         "meta.jsx.children.tsx"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#64748b"
       }
     },
     {
@@ -444,14 +444,14 @@
       "name": "Support Variable Property DOM",
       "scope": "support.variable.property.dom",
       "settings": {
-        "foreground": "#67e8f9"
+        "foreground": "#0088ff"
       }
     },
     {
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#67e8f9"
+        "foreground": "#0088ff"
       }
     },
     {
@@ -475,7 +475,7 @@
       "name": "[CSS] - Element Selector",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#67e8f9"
+        "foreground": "#0088ff"
       }
     },
     {
@@ -519,14 +519,14 @@
         "source.stylus variable"
       ],
       "settings": {
-        "foreground": "#22d3ee"
+        "foreground": "#0088ff"
       }
     },
     {
       "name": "[HTML] - Entity Name",
       "scope": "text.html.basic entity.name",
       "settings": {
-        "foreground": "#22d3ee"
+        "foreground": "#0088ff"
       }
     },
     {
@@ -562,7 +562,7 @@
       "name": "[INI] - Entity",
       "scope": "source.ini entity",
       "settings": {
-        "foreground": "#22d3ee"
+        "foreground": "#0088ff"
       }
     },
     {
@@ -628,7 +628,7 @@
         "source.json punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#22d3ee"
+        "foreground": "#0088ff"
       }
     },
     {
@@ -654,7 +654,7 @@
       "name": "[MARKDOWN] - Paragraph",
       "scope": "meta.paragraph.markdown",
       "settings": {
-        "foreground": "#0ea5e9"
+        "foreground": "#0088ff"
       }
     },
     {
